@@ -1,0 +1,10 @@
+{
+  "invalid_password": "無効なユーザー名またはパスワード",
+  "not_empty": "空にすることはできません",
+  "lessthan3": "3文字以上にする必要があります",
+  "not_greater": "を超えることはできません",
+  "character": "キャラクター",
+  "password": "パスワード",
+  "username": "ユーザー名",
+  "login": "ログイン"
+}

@@ -1,0 +1,10 @@
+{
+  "invalid_password": "Invalid username or password",
+  "not_empty": "can not be empty",
+  "lessthan3": "can not be less than three character",
+  "not_greater": "can not be greater than",
+  "character": "character",
+  "password" : "Password",
+  "username": "User Name",
+  "login": "Login"
+}
